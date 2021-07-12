@@ -1,0 +1,28 @@
+{
+  "config": {
+    "branch": "master",
+    "cname": "",
+    "domain": "https://coding-pages-bucket-3523768-8337280-12739-496644-1304585153.cos-website.ap-hongkong.myqcloud.com",
+    "email": "1767867374@qq.com",
+    "platform": "coding",
+    "repository": "blog/blog",
+    "token": "4f3653b0124cf0262a8839987f8697e215dcf92c",
+    "tokenUsername": "TBllYPvxnc",
+    "username": "tdyso"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
