@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://localhost:4000</id>
+    <title>Gridea</title>
+    <updated>2021-05-17T14:06:31.920Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <subtitle>一个人的记忆就是座城市，时间腐蚀着一切建筑，把高楼和道路全部沙化。如果你不往前走，就会被沙子掩埋。所以我们泪流满面，步步回头，可是只能往前走。</subtitle>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
+    <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[双子杀手]]></title>
+        <id>http://localhost:4000/post/bian-cheng-ri-ji-qian-duan-kai-fa/</id>
+        <link href="http://localhost:4000/post/bian-cheng-ri-ji-qian-duan-kai-fa/">
+        </link>
+        <updated>2021-05-17T11:58:45.000Z</updated>
+        <content type="html"><![CDATA[<p>疗伤是需要时间的，骨头要重连，伤口要愈合，淤青要褪去，恐惧要潜伏。人不可能在24小时内就脱胎换骨，哪怕是6个月时间都不能完全康复，但至少这是一个好的开始。<img src="http://localhost:4000/post-images/1621259919366.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迷失森林]]></title>
+        <id>http://localhost:4000/post/mi-shi-sen-lin/</id>
+        <link href="http://localhost:4000/post/mi-shi-sen-lin/">
+        </link>
+        <updated>2021-05-17T11:55:06.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="http://localhost:4000/post-images/1621259766503.jpg" alt="" loading="lazy">每一个人都有属于自己的一片森林，迷失的人迷失了，相逢的人会再相逢。（村上春树）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麦田里的风]]></title>
+        <id>http://localhost:4000/post/mai-tian-li-de-feng/</id>
+        <link href="http://localhost:4000/post/mai-tian-li-de-feng/">
+        </link>
+        <updated>2021-05-15T01:41:24.000Z</updated>
+        <content type="html"><![CDATA[<p>有些喜欢，就是麦田里曾降临过的风，只有当事人明了，而这世界假装没发生。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果有来生]]></title>
+        <id>http://localhost:4000/post/ru-guo-you-lai-sheng/</id>
+        <link href="http://localhost:4000/post/ru-guo-you-lai-sheng/">
+        </link>
+        <updated>2021-03-15T13:27:45.000Z</updated>
+        <content type="html"><![CDATA[<p>如果有来生，要做一棵树，站成永恒。没有悲欢的姿势， 一半在尘土里安详， 一半在风里飞扬； 一半洒落荫凉， 一半沐浴阳光。 非常沉默、非常骄傲。 从不依靠、从不寻找；<br>
+如果有来生，要化成一阵风， 一瞬间也能成为永恒。 没有善感的情怀， 没有多情的眼睛。 一半在雨里洒脱， 一半在春光里旅行； 寂寞了，孤自去远行， 把淡淡的思念统带走， 从不思念、从不爱恋；<br>
+如果有来生，要做一只鸟， 飞越永恒，没有迷途的苦恼。东方有火红的希望，南方有温暖的巢床， 向西逐退残阳，向北唤醒芬芳。  如果有来生， 希望每次相遇， 都能化为永恒。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暴风雨]]></title>
+        <id>http://localhost:4000/post/bao-feng-yu/</id>
+        <link href="http://localhost:4000/post/bao-feng-yu/">
+        </link>
+        <updated>2021-03-13T08:19:58.000Z</updated>
+        <content type="html"><![CDATA[<p>别在树下徘徊，别在雨中沉思，别在黑暗中落泪。向前看，不要回头，只要你勇于面对抬起头来，就会发现，此刻的阴霾不过是短暂的雨季。向前看，还有一片明亮的天，不会使人感到彷徨。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昔风不起]]></title>
+        <id>http://localhost:4000/post/xi-feng-bu-qi/</id>
+        <link href="http://localhost:4000/post/xi-feng-bu-qi/">
+        </link>
+        <updated>2021-03-11T03:28:38.000Z</updated>
+        <content type="html"><![CDATA[<p>我相信，那一切都是种子。只有经过埋葬，才有生机。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流浪的星星]]></title>
+        <id>http://localhost:4000/post/liu-lang-de-xing-xing/</id>
+        <link href="http://localhost:4000/post/liu-lang-de-xing-xing/">
+        </link>
+        <updated>2021-03-04T02:16:06.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="http://localhost:4000/post-images/4.gif" alt="" loading="lazy"><br>
+<strong>奋斗不喧哗，成功自有声。</strong><br>
+Work hard in silence， let your success be your noise.<br>
+————————————————</p>
+<p><strong>这个世界里，虽然没有最美好的相遇，却应该有为了相遇或者重逢，所做的最美好的努力。</strong><br>
+In this world, although there is no best meeting, there should be the best efforts to meet or meet again.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[半抹浮沙]]></title>
+        <id>http://localhost:4000/post/ufkrgsyiebgiitt/</id>
+        <link href="http://localhost:4000/post/ufkrgsyiebgiitt/">
+        </link>
+        <updated>2021-02-22T08:45:16.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="http://localhost:4000/post-images/1613983651488.jpeg" alt="" loading="lazy"><br>
+————————————————<br>
+<strong>当全世界都要我放弃的时候，我还是期待有人轻语一声：“再试一次”。</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[铜钟音乐]]></title>
+        <id>http://localhost:4000/post/tong-zhong-yin-le/</id>
+        <link href="http://localhost:4000/post/tong-zhong-yin-le/">
+        </link>
+        <updated>2021-02-18T11:47:39.000Z</updated>
+        <content type="html"><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<a href="http://1.15.106.120/">
+		<img border="0" src="https://media.creatorsdaily.com/QmaPp4h6SKPjF41eQMgXpb3Yob6SgHwTDWJyDZcPzZEJF9-160-160-contain" height="50" width="80" align="left">
+	</a>
+    <a href="http://1.15.106.120/">铜钟音乐</a>
+</body>
+</html>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不是等着被选]]></title>
+        <id>http://localhost:4000/post/yi-yan/</id>
+        <link href="http://localhost:4000/post/yi-yan/">
+        </link>
+        <updated>2021-02-17T01:54:29.000Z</updated>
+        <content type="html"><![CDATA[<p>不是等着被选，而是选择自己想要的，不要怕，只要是自己选的就好。那样，人生才会快乐。</p>
+]]></content>
+    </entry>
+</feed>
